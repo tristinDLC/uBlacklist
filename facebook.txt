@@ -1719,3 +1719,4 @@
 *://*.zero.internet.org\*
 *://*.zh-cn.facebook.com\*
 *://*.zh-hk.facebook.com\*
+*://*.zh-tw.facebook.com\*
